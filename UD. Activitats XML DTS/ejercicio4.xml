@@ -2,21 +2,20 @@
 <!DOCTYPE listacompras SYSTEM "ejercicio4.dtd" >
 <listacompras>
 	<venta>
-		<ventacredito>
-			<fechafinpago>2024-06-20</fechafinpago>
-			<cantidad>200.00</cantidad>
-		</ventacredito>
+		<ventaacredito>
+			<fechafinpago>22-10-2021</fechafinpago>
+			<cantidad>21000</cantidad>
+		</ventaacredito>
 	</venta>
 	<venta>
 		<ventainmediata>
-			<cantidad>120.00</cantidad>
-			<divisa>EUR</divisa>
+			<cantidad>1800</cantidad>
+			<divisa>euros</divisa>
 		</ventainmediata>
 	</venta>
 	<venta>
-		<ventacredito>
-			<fechafinpago>2024-06-22</fechafinpago>
-			<cantidad>350.00</cantidad>
-		</ventacredito>
+		<ventaacredito>
+			<cantidad>21000</cantidad>
+		</ventaacredito>
 	</venta>
 </listacompras>
