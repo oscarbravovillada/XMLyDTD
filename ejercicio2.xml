@@ -13,7 +13,7 @@
         <peso>12.0kg</peso>
     </pedido>
 
-    <pedido>
+    <pedido>  <!-- prova de comentari en xml  -->
         <numeroSerie>54321</numeroSerie>
         <cantidad>15</cantidad>
     </pedido>
