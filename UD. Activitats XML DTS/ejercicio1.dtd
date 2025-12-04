@@ -1,7 +1,7 @@
-<!ELEMENT listaventas (venta+)>
-<!ELEMENT venta (#PCDATA)>
-<!ELEMENT Importe (#PCDATA)>
-<!ELEMENT Fecha (#PCDATA)>
-<!ELEMENT Venedor (#PCDATA)>
-<!ELEMENT Comprador (#PCDATA)>
-<!ELEMENT CódigoFactuación (#PCDATA)>
+<!ELEMENT listaventas (venta*)>
+<!ELEMENT venta (importe, fecha, venedor , comprador, codFac)>
+<!ELEMENT importe (#PCDATA)>
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT venedor (#PCDATA)>
+<!ELEMENT comprador (#PCDATA)>
+<!ELEMENT codFac (#PCDATA)>

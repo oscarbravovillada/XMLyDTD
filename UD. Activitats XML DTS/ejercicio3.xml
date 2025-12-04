@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE productos SYSTEM "ejercicio3.dtd" >
 <productos>
-   <producto>
-      <raton>
-         <codigo>27A</codigo>
-      </raton>
-   </producto>
-   <producto>
-      <teclado>
-         <codigo>28D</codigo>
-         <descripcion>Teclado en Español</descripcion>
-      </teclado>
-   </producto>
-   <producto>
-      <monitor>
-         <codigo>49X</codigo>
-         <nombre>Monitor Pro</nombre>
-         <descripcion>27" 4K IPS</descripcion>
-      </monitor>
-   </producto>
+	<producto>
+		<raton>
+			<codigo>27A</codigo>
+		</raton>
+	</producto>
+	<producto>
+		<teclado>
+			<codigo>28D</codigo>
+			<descripcion>Teclado en Español</descripcion>
+		</teclado>
+	</producto>
+	<producto>
+		<monitor>
+			<codigo>49X</codigo>
+			<nombre>Monitor Pro</nombre>
+			<descripcion>27" 4K IPS</descripcion>
+		</monitor>
+	</producto>
 </productos>

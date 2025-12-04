@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE listaventas SYSTEM "ejercicio1.dtd" >
 <listaventas>
-    <venta>
-        Importe: 150.75
-        Fecha: 2024-06-15
-        Venedor: Juan Pérez
-        Comprador: María López
-        Código Factuación: FAC12345
-    </venta>
-    <venta>
-        Importe: 299.99
-        Fecha: 2024-06-16
-        Venedor: Ana Gómez
-        Comprador: Carlos Sánchez
-        Código Factuación: FAC12346
-    </venta>
-    <venta>
-        Importe: 75.50
-        Fecha: 2024-06-17
-        Venedor: Luis Martínez
-        Comprador: Elena Rodríguez
-        Código Factuación: FAC12347
-    </venta>
+	<venta>
+		<importe>1500</importe>
+		<fecha>2024-06-15</fecha>
+		<venedor>Juan Pérez</venedor>
+		<comprador>Empresa XYZ</comprador>
+		<codFac>F20240615-001</codFac>
+	</venta>
+	<venta>
+		<importe>1500</importe>
+		<fecha>2024-06-15</fecha>
+		<venedor>Juan Pérez</venedor>
+		<comprador>Empresa XYZ</comprador>
+		<codFac>F20240615-001</codFac>
+	</venta>
+	<venta>
+		<importe>1500</importe>
+		<fecha>2024-06-15</fecha>
+		<venedor>Juan Pérez</venedor>
+		<comprador>Empresa XYZ</comprador>
+		<codFac>F20240615-001</codFac>
+	</venta>
 </listaventas>
