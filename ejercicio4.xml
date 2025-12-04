@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE listacompras SYSTEM "ejercicio4.dtd" >
 <listacompras>
-
     <venta>
         <ventacredito>
             <fechafinpago>2024-06-20</fechafinpago>
